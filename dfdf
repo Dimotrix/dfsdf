@@ -109,17 +109,17 @@ getgenv().Config = {
         { ID = 5624005609, script = 44 },
         { ID = 5624008618, script = 44 },
         { ID = 5624008616, script = 44 },
-        { ID = Arulm4953, script = 44 },
-        { ID = Vorbzt3499, script = 45 },
-        { ID = Mekulm1262, script = 46 },
-        { ID = Blastgrind4573, script = 46 },
-        { ID = Frizza6235, script = 46 },
-        { ID = Crankneedle4357, script = 46 },
-        { ID = Silentseam6745, script = 47 },
-        { ID = Torquewrench9959, script = 48 },
-        { ID = Swiftseam3782, script = 48 },
-        { ID = Risrf0118, script = 48 },
-        { ID = Abru1170, script = 48 }
+        { ID = 5624008582, script = 44 },
+        { ID = 5624011241, script = 45 },
+        { ID = 5624013701, script = 46 },
+        { ID = 5624013953, script = 46 },
+        { ID = 5624014266, script = 46 },
+        { ID = 5624016702, script = 46 },
+        { ID = 5624016778, script = 47 },
+        { ID = 5624017040, script = 48 },
+        { ID = 5624019432, script = 48 },
+        { ID = 5624019585, script = 48 },
+        { ID = 5624019610, script = 48 }
     },
     Scripts = { 
         -- Please make it a raw link 
